@@ -29,9 +29,9 @@ $username3       = ('@'.$username);
  $info            = json_encode($update, JSON_PRETTY_PRINT); 
 $emojid = '❌';
 $emojil = '✅';
-$owner = '<code>@Gopinoob</code>';
-$botu = "𝘽𝙊𝙏 𝙐𝙋𝘿𝘼𝙏𝙀𝙎 ↯ @hackedworld69";
-$bota = "<b>|×| 𝘿𝙀𝙑 ↯ @Gopinoob</b>";$eror = "<b>Error ❌</b>";
+$owner = '<code>@camfuckerRoBot</code>';
+$botu = "𝘽𝙊𝙏 𝙐𝙋𝘿𝘼𝙏𝙀𝙎 ↯ @samofficials404";
+$bota = "<b>|×| 𝘿𝙀𝙑 ↯ @CyberSakibAlMahmud</b>";$eror = "<b>Error ❌</b>";
 
 $dd = "𝗗𝗲𝗰𝗹𝗶𝗻𝗲𝗱 ❌";
 $live = "𝗔𝗽𝗽𝗿𝗼𝘃𝗲𝗱 ✅";
@@ -87,7 +87,7 @@ $callbackmessage = $update->callback_query->message->text;
 $callbackid = $update->callback_query->id;
 
 $text = $update->message->text;
-$owner = '<code>@hackedworld69</code>';
+$owner = '<code>@samofficials404</code>';
 
 
 
@@ -107,7 +107,7 @@ if ($cdata2 == "back2") {
 ]);
   
   
-    $videoUrl = "https://t.me/hackedworld69/10";
+    $videoUrl = "https://t.me/theauditoriumoffriends/352";
 
     $inputMediaVideo = json_encode([
         'type' => 'video',
@@ -151,11 +151,11 @@ if ($cdata2 == "buy") {
 
                                  $gatesKeyboard = json_encode([
                                  'inline_keyboard' => [
-                                     [                     ['text' => '• 𝙑𝙀𝙍𝙄𝙁𝙔 𝙋𝘼𝙔𝙈𝙀𝙉𝙏 •', 'url' => 'https://t.me/Gopinoob'],   ], ]
+                                     [                     ['text' => '• 𝙑𝙀𝙍𝙄𝙁𝙔 𝙋𝘼𝙔𝙈𝙀𝙉𝙏 •', 'url' => 'https://t.me/CyberSakibAlMahmud'],   ], ]
   ]);
 
 
-    $videoUrl = "https://t.me/hackedworld69/10";
+    $videoUrl = "https://t.me/theauditoriumoffriends/352 ";
 
     $inputMediaVideo = json_encode([
         'type' => 'video',
@@ -174,7 +174,7 @@ if ($cdata2 == "buy") {
 $keyboard = json_encode([
     'inline_keyboard' => [
         [
-            ['text' => "↯ 𝘽𝙐𝙔 𝘼𝘾𝘾𝙀𝙎𝙎", 'url' => "https://t.me/Gopinoob"],
+            ['text' => "↯ 𝘽𝙐𝙔 𝘼𝘾𝘾𝙀𝙎𝙎", 'url' => "https://t.me/CyberSakibAlMahmud"],
         ],
     ]
 ]);
@@ -200,7 +200,7 @@ $bota</b>";
     ]
 ]);
 
-    $videoUrl = "https://t.me/hackedworld69/10";
+    $videoUrl = "https://t.me/theauditoriumoffriends/352 ";
 
     $inputMediaVideo = json_encode([
         'type' => 'video',
@@ -236,7 +236,7 @@ $bota</b>";
 ]);
 
   
-    $videoUrl = "https://t.me/hackedworld69/10";
+    $videoUrl = "https://t.me/theauditoriumoffriends/352";
 
     $inputMediaVideo = json_encode([
         'type' => 'video',
@@ -285,7 +285,7 @@ if ($cdata2 == "free") {
 $bota";
 
     // Replace this with your video URL
-    $videoUrl = "https://t.me/hackedworld69/10";
+    $videoUrl = "https://t.me/theauditoriumoffriends/352 ";
 
     $inputMediaVideo = json_encode([
         'type' => 'video',
@@ -330,7 +330,7 @@ if ($cdata2 == "freec") {
 $bota";
 
     // Replace this with your video URL
-    $videoUrl = "https://t.me/hackedworld69/10";
+    $videoUrl = "https://t.me/theauditoriumoffriends/352 ";
 
     $inputMediaVideo = json_encode([
         'type' => 'video',
@@ -378,7 +378,7 @@ if ($cdata2 == "freea") {
 $bota";
 
     // Replace this with your video URL
-    $videoUrl = "https://t.me/hackedworld69/10";
+    $videoUrl = "https://t.me/theauditoriumoffriends/352 ";
 
     $inputMediaVideo = json_encode([
         'type' => 'video',
@@ -429,7 +429,7 @@ if ($cdata2 == "freeg") {
 $bota";
 
     // Replace this with your video URL
-    $videoUrl = "https://t.me/hackedworld69/10";
+    $videoUrl = "https://t.me/theauditoriumoffriends/352 ";
 
     $inputMediaVideo = json_encode([
         'type' => 'video',
@@ -478,7 +478,7 @@ if ($cdata2 == "freeh") {
 $bota";
 
     // Replace this with your video URL
-    $videoUrl = "https://t.me/hackedworld69/10";
+    $videoUrl = "https://t.me/theauditoriumoffriends/352";
 
     $inputMediaVideo = json_encode([
         'type' => 'video',
@@ -525,7 +525,7 @@ if ($cdata2 == "premium") {
 $bota";
 
     // Replace this with your video URL
-    $videoUrl = "https://t.me/hackedworld69/10";
+    $videoUrl = "https://t.me/theauditoriumoffriends/352";
 
     $inputMediaVideo = json_encode([
         'type' => 'video', 
@@ -569,7 +569,7 @@ if ($cdata2 == "premiump") {
 $bota";
 
     // Replace this with your video URL
-    $videoUrl = "https://t.me/hackedworld69/10";
+    $videoUrl = "https://t.me/theauditoriumoffriends/352";
 
     $inputMediaVideo = json_encode([
         'type' => 'video', 
@@ -641,7 +641,7 @@ if ($cdata2 == "herr") {
 <b>|×| 𝘿𝙀𝙑 </b>- @hackedworld69";
 
     // Change this to your video URL
-    $videoUrl = "https://t.me/hackedworld69/10";
+    $videoUrl = "https://t.me/theauditoriumoffriends/352";
 
     $inputMediaVideo = json_encode([
         'type' => 'video',
@@ -673,7 +673,7 @@ if ($cdata2 == "herr") {
 //========finalize end=========//
 $channel = json_encode([
     'inline_keyboard' => [
-        [['text' => "𝙊𝙒𝙉𝙀𝙍", 'url' => "t.me/Gopinoob"], ['text' => "𝘾𝙃𝘼𝙉𝙉𝙀𝙇", 'url' => "https://t.me/hackedworld69"]],
+        [['text' => "𝙊𝙒𝙉𝙀𝙍", 'url' => "t.me/CyberSakibAlMahmud"], ['text' => "𝘾𝙃𝘼𝙉𝙉𝙀𝙇", 'url' => "https://t.me/hackedworld69"]],
         [['text' => "𝙂𝙊 𝘽𝘼𝘾𝙆 ", 'callback_data' => 'back2']]
     ]
 ]);
@@ -682,7 +682,7 @@ if ($cdata2 == "channel") {
     $channelText = "𝙅𝙊𝙄𝙉 𝙈𝙔 𝘾𝙃𝘼𝙉𝙉𝙀𝙇𝙎 𝙁𝙊𝙍 𝘽𝙊𝙏 𝙐𝙋𝘿𝘼𝙏𝙀𝙎.";
 
     // Change this to your video URL
-    $videoUrl = "https://t.me/hackedworld69/10";
+    $videoUrl = "https://t.me/theauditoriumoffriends/352";
 
     $inputMediaVideo = json_encode([
         'type' => 'video',
@@ -701,7 +701,7 @@ if ($cdata2 == "back2") {
     $backtxt = ("Welcome click /price to buy the Premium plan ✅");
 
     // Change this to your video url
-    $backVideoUrl = "https://t.me/hackedworld69/10"; 
+    $backVideoUrl = "https://t.me/theauditoriumoffriends/352"; 
 
     $keyboard2 = json_encode([
     'inline_keyboard' => [
