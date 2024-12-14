@@ -141,7 +141,7 @@ $bank = isset($binInfo['bank']['name']) ? strtoupper($binInfo['bank']['name']) :
 $response .= "━━━━━━━━━━━━━━━━━━━━━\n\n";
 
 // Append a custom footer to the response
-$response .= "𝘽𝙊𝙏 𝙊𝙒𝙉𝙀𝙍 ↯ @Gopinoob";
+$response .= "𝘽𝙊𝙏 𝙊𝙒𝙉𝙀𝙍 ↯ @im_Arman_12";
 
     return $response;
 }
