@@ -13,12 +13,12 @@ ini_set('error_log', 'errors.log');
 $users = file_get_contents('Database/free.txt');
 $freeusers = explode("\n", $users);
 
-$videoURLStart = "https://t.me/hackedworld69/10";
+$videoURLStart = "https://t.me/bgmiidsellardm/37";
 
 
 if (preg_match('/^(\/start|\.start|!start)/', $text)) {
     if (in_array($userId, $freeusers)) {
-        $caption = "𝗪𝗲𝗹𝗰𝗼𝗺𝗲 <code>@$username</code> 𝘁𝗼 hackedworld69 Checker 💖
+        $caption = "𝗪𝗲𝗹𝗰𝗼𝗺𝗲 <code>@$username</code> 𝘁𝗼 hackedworld Checker 💖
  
 ✅𝙔𝙤𝙪𝙧 𝙍𝙖𝙣𝙠 ->><code>$rank</code>
 
@@ -33,7 +33,7 @@ if (preg_match('/^(\/start|\.start|!start)/', $text)) {
 //=========START END========//
 if (preg_match('/^(\/cmds|\.cmds|!cmds)/', $text)) {
 
-    $videoUrl = "https://t.me/hackedworld69/10"; 
+    $videoUrl = "https://t.me/bgmiidsellardm/39"; 
 
     $keyboard2 = json_encode([
         'inline_keyboard' => [
@@ -62,16 +62,16 @@ if (preg_match('/^(\/price|\.price|!price)/', $text))
 
 {
 
-    $videoUrl = "https://t.me/hackedworld69/10"; 
+    $videoUrl = "https://t.me/bgmiidsellardm/37"; 
 
     $keyboard2 = json_encode([
         'inline_keyboard' => [
             [
                       
-                                 ['text' => '𝙑𝙀𝙍𝙄𝙁𝙔 𝙋𝘼𝙔𝙈𝙀𝙉𝙏', 'url' => 'https://t.me/Gopinoob'],   ], ]
+                                 ['text' => '𝙑𝙀𝙍𝙄𝙁𝙔 𝙋𝘼𝙔𝙈𝙀𝙉𝙏', 'url' => 'https://t.me/im_Arman_12'],   ], ]
     ]);
 
- $caption=" Pricing hackedworld69 Checker📍
+ $caption=" Pricing hackedworld Checker📍
 ━━━━━━━━━━━━━━━━━━
 ⑄ 𝙎𝙐𝘽𝙎𝘾𝙍𝙄𝙋𝙏𝙄𝙊𝙉 𝙈𝙀𝙉𝙐 ⑄
 ━━━━━━━━━━━━━━━━━━
