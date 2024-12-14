@@ -46,7 +46,7 @@ $message = "<b>
 
 •├𝙍𝙀𝙌: @$username/<code>[$rank]</code>
 ━━━━━━━━━━━━━━
-•├𝘿𝙀𝙑: <code>@hackedworld69</code>
+•├𝘿𝙀𝙑: <code>@im_Arman_12</code>
 </b>";
 
 $urlEncodedMessage = urlencode($message);
